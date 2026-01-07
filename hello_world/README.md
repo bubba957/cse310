@@ -8,7 +8,7 @@ I know not everyone could create a Hello World message on their own webpage but 
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video]https://www.loom.com/share/a9dbe34225d149c69740d4d95a87eaa6
+[Software Demo Video]https://youtu.be/imJiAHEazVg
 
 # Development Environment
 
